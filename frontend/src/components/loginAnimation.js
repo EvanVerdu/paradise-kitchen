@@ -14,7 +14,7 @@ function register() {
     x.style.left = "-400px";
     y.style.left = "50px";
     z.style.left = "110px";
-    form.style.height = "1000px";
+    form.style.height = "800px";
     reg.style.color = "white";
     log.style.color = "black";
 }
